@@ -4,7 +4,7 @@
 # https://projets-du-dimanche.jimdo.com/projets/distributeur/
 #
 # Code arduino : 
-# Les fichiers .ino .cpp .h sont a placer dans un repertoire d"istributeur_automatique_arduino"
+# Les fichiers .ino .cpp .h sont a placer dans un repertoire "distributeur_automatique_arduino"
 # Une fois le .ino ouvert, ajouter a l'environnement Arduino les librairies via le gestionnaire : 
 #       - "Wire" 1.0.0
 # 
